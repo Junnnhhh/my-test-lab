@@ -1,1 +1,1 @@
-# my-test-lab 입니다. (github에서 수정)
+# my-test-lab 입니다. (local에서 수정)
