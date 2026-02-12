@@ -11,4 +11,8 @@ public class Calculator {
         }
         return a + b;
     }
+    // 다른 메소드 추가 (G)
+    private int doSubtraction(int a, int b) {
+        return a - b;
+    }
 }
