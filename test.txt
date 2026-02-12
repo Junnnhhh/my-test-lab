@@ -1,2 +1,3 @@
 
 this is git
+메인에서 커밋 update1 추가
